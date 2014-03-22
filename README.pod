@@ -41,6 +41,7 @@ This is UTF-8 compliant on *nix systems, with Python 2.6.
 
 =head1 ACKNOWLEDGEMENTS
 
+I<Forked from the excellent lastpass2keepass>, I<Anirudh Joshi>, L<https://github.com/anirudhjoshi/lastpass2keepass>.
 I<Python XML processing with lxml>, I<John W. Shipman>, L<http://infohost.nmt.edu/tcc/help/pubs/pylxml/>.
 I<ElementTree Overview>, I<Fredrik Lundh>, L<http://effbot.org/zone/element-index.htm>.
 
