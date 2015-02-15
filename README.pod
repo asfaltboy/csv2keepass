@@ -20,7 +20,7 @@ Allows you to convert csv from either LastPass export or KeePass 2.0's "export t
 
 =head2 USAGE
 
-	python lastpass2keepass.py exportedCSVFile
+	python csv2keepass.py exportedCSVFile
 
 Then import the "exportedTextFile.export.xml" into KeePassx via:
 
